@@ -1,0 +1,15 @@
+{
+  "name": "abadon-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Low contrast, earth tones on brown, based on Anderson theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/earthian-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
