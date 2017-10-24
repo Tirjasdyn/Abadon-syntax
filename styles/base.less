@@ -39,7 +39,7 @@ atom-text-editor {
   }
 
   .invisible {
-    color: @syntax-text-color;
+    color: @deep-earth-red;
   }
 
   .cursor {
@@ -66,7 +66,7 @@ atom-text-editor {
   }
 
   &.syntax--operator {
-    color: @syntax-text-color;
+    color: @sky-blue;
   }
 
   &.syntax--other.syntax--special-method {
@@ -82,8 +82,11 @@ atom-text-editor {
   color: @aqua-teal;
 }
 
+.syntax--entity.name.entity.other.html{
+  color: @sky-blue;
+}
 .syntax--constant {
-  color: @pale-gold;
+  color: @bright-pink;
 
   &.syntax--character.syntax--escape {
     color: @deep-earth-red;
@@ -98,7 +101,7 @@ atom-text-editor {
   }
 
   &.syntax--other.syntax--symbol {
-    color: @celery;
+    color: @deep-earth-red;
   }
 }
 
@@ -110,7 +113,7 @@ atom-text-editor {
   }
 
   &.syntax--parameter.syntax--function {
-    color: @syntax-text-color;
+    color: @inca-gold;
   }
 }
 
@@ -120,11 +123,11 @@ atom-text-editor {
 }
 
 .syntax--string {
-  color: @bright-pink;
+  color: @lavender;
 
 
   &.syntax--regexp {
-    color: @light-jungle-green;
+    color: @orange;
 
     .syntax--source.syntax--ruby.syntax--embedded {
       color: @orange;
@@ -141,12 +144,20 @@ atom-text-editor {
     &.syntax--comment {
       color: @bright-pink;
     }
+/*quotes*/
+    &.syntax--string {
+      color: @sky-blue;
+    }
 
-    &.syntax--string,
-    &.syntax--variable,
-    &.syntax--parameters,
+    &.syntax--parameters {
+      color: @orange;
+    }
     &.syntax--array {
-      color: @syntax-text-color;
+      color: @bright-pink;
+    }
+
+    &.syntax--variable {
+      color: @forest;
     }
 
     &.syntax--heading,
@@ -173,11 +184,11 @@ atom-text-editor {
 
 .syntax--support {
   &.syntax--class {
-    color: @light-jungle-green;
+    color: @inca-gold;
   }
 
   &.syntax--function  {
-    color: @celery;
+    color: @forest;
 
     &.syntax--any-method {
       color: @inca-gold;
@@ -198,7 +209,7 @@ atom-text-editor {
     color: @forest;
   }
   &.syntax--name.syntax--class, &.syntax--name.syntax--type.syntax--class {
-    color: @orange;
+    color: @inca-gold;
   }
 
   &.syntax--name.syntax--section {
@@ -206,12 +217,12 @@ atom-text-editor {
   }
 
   &.syntax--name.syntax--tag {
-    color: @deep-earth-red;
-    text-decoration: underline;
+    color: @forest;
+
   }
 
   &.syntax--other.syntax--attribute-name {
-    color: @orange;
+    color: @deep-earth-red;
 
     &.syntax--id {
       color: @sky-blue;
@@ -237,13 +248,13 @@ atom-text-editor {
   }
 
   &.syntax--separator {
-    background-color: @celery;
-    color: @syntax-text-color;
+
+    color: @orange;
   }
 }
 
 .syntax--none {
-  color: @syntax-text-color;
+  color: @bright-pink;
 }
 
 .syntax--markup {
@@ -278,7 +289,7 @@ atom-text-editor {
   }
 
   &.syntax--quote {
-    color: @pale-gold;
+    color: @sky-blue;
   }
 
   &.syntax--raw.syntax--inline {
