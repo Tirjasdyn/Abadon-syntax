@@ -5,6 +5,12 @@ Abadon is dark theme with highlighting in dark pastels. Punctuation is called ou
 
 ## Screenshots
 
-![html.png]({{site.baseurl}}/html.png)
+![HTML]({{site.baseurl}}/html.png)
 
+![JavaScript]({{site.baseurl}}/js.png)
 
+![CSS]({{site.baseurl}}/css.png)
+
+![Other 1]({{site.baseurl}}/sass.png)
+
+![Other 2]({{site.baseurl}}/sass2.png)
