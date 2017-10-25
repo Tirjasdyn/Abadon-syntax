@@ -5,12 +5,12 @@ Abadon is dark theme with highlighting in dark pastels. Punctuation is called ou
 
 ## Screenshots
 
-![HTML]({{site.baseurl}}/html.png)
+![HTML](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/html.png)
 
-![JavaScript]({{site.baseurl}}/js.png)
+![JavaScript](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/js.png)
 
-![CSS]({{site.baseurl}}/css.PNG)
+![CSS](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/css.PNG)
 
-![Other 1]({{site.baseurl}}/sass.PNG)
+![Other 1](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/sass.PNG)
 
-![Other 2]({{site.baseurl}}/sass2.PNG)
+![Other 2](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/sass2.PNG)
