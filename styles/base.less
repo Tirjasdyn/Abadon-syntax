@@ -57,7 +57,14 @@ atom-text-editor {
 .syntax--comment {
   color: @deep-sky-blue;
 }
-
+// XML Syntax Styles
+.syntax--text.syntax--xml {
+  color: @bright-pink;
+}
+.syntax--punctuation.syntax--definition.syntax--tag.syntax--xml {
+  color: @inca-gold;
+}
+// End XML
 .syntax--keyword {
   color: @sky-blue;
 
@@ -309,4 +316,9 @@ atom-text-editor {
 
 atom-text-editor[mini] .scroll-view {
   padding-left: 1px;
+}
+
+//AmpScript  variables
+.syntax--variable.syntax--other.syntax--ampscript {
+  color: @bright-pink;
 }
