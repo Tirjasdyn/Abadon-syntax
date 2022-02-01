@@ -9,12 +9,19 @@ This theme includes AmpScript spefic hightlighting as well..because SFMC and ema
 
 ## Screenshots
 
-![HTML](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/html.png)
+### HTML
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/html.png"/>
 
-![JavaScript](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/js.png)
+### Ampscript
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/Ampscript.png"/>
 
-![CSS](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/css.PNG)
+### JavaScript
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/js.png"/>
 
-![Other 1](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/sass.PNG)
+### CSS
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/css.PNG"/>
 
-![Other 2](https://github.com/Tirjasdyn/Abadon-syntax/blob/master/sass2.PNG)
+### Other
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/sass.PNG"/>
+
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/sass2.PNG"/>
