@@ -5,7 +5,7 @@ Abadon is dark theme with highlighting in dark pastels. Punctuation is called ou
 
 This theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW.
 
-I know I need to do new screen shots.
+[View on Github](https://github.com/Tirjasdyn/Abadon-syntax)
 
 ## Screenshots
 
