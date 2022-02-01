@@ -3,7 +3,7 @@ Atom Syntax Theme based on the [Anderson Dark Syntax Theme](https://atom.io/them
 
 Abadon is dark theme with highlighting in dark pastels. Punctuation is called out in different colors as well as HTML entities. I use this with the One Dark UI theme. This theme is update to date with Atom 1.56 release.
 
-This theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW.
+This theme includes AmpScript spefic hightlighting as well..because SFMC and email FTW. Screenshots on GitHub.
 
 [View on Github](https://github.com/Tirjasdyn/Abadon-syntax)
 
