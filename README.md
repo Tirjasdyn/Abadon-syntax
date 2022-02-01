@@ -13,7 +13,7 @@ This theme includes AmpScript spefic hightlighting as well..because SFMC and ema
 <img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/html.png"/>
 
 ### Ampscript
-<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/ampscript.jpg"/>
+<img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/3184a27127758ca93b14968da8304644e145d1fe/ampscript.jpg"/>
 
 ### JavaScript
 <img src="https://github.com/Tirjasdyn/Abadon-syntax/blob/master/js.png"/>
